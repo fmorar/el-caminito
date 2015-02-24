@@ -1,0 +1,81 @@
+h1,
+h2,
+h3,
+h4,
+h5{
+	margin: 0;
+}
+
+li{
+	list-style: none;
+}
+
+nav{
+	background-color: #ccc;
+	margin: 0;
+	padding: 5px;
+}
+
+h1 img{
+	position: absolute;
+	width: 100px;
+	height: 100px;
+	margin-left: 15%;
+}
+
+.nav-principal{
+	margin-left: 20%;
+}
+
+.nav-principal li{
+	display: inline;
+	margin-left: 1%;
+
+}
+
+.nav-principal a{
+	color:#4c4c4c;
+	display: inline-block;
+	padding: 10px;
+	text-decoration: none;
+}
+
+.nav-principal a:hover{
+	background-color:#808080;
+}
+
+.backgraund{
+	background: url(../../diseno/banner.jpg) no-repeat;
+	width: 100%;
+	background-size: cover;
+	height: 648px;
+
+}
+
+.principal{
+	padding-top: 400px;
+}
+
+.principal p{
+	color: #fff;
+	font-size: 2rem;
+	margin: 10px;
+	text-shadow: -5px -5px 10px #000;
+}
+
+h2{
+	color: #fff;
+	font-size: 2.5rem;
+	text-shadow: -5px -5px 10px #000;
+
+}
+
+.content{
+	margin-left: 15%;
+}
+
+.description{
+	background-color: #ccc;
+}
+
+
